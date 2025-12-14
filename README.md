@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi 👋 I'm Aditya Kumar  
 
-<!--
-**debug-node/debug-node** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Student  
+💻 MERN Stack Developer  
+📚 Java + DSA | Cybersecurity Learner  
 
-Here are some ideas to get you started:
+I love building real-world projects and improving my problem-solving skills every day 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- **Languages:** JavaScript, Java  
+- **Frontend:** HTML, CSS, React  
+- **Backend:** Node.js, Express  
+- **Tools:** Git, GitHub  
+
+---
+
+### 🚀 Projects
+- **Loan Calculator** – Web-based EMI calculator using JavaScript  
+- **20 Simple Web Projects** – Beginner-friendly HTML, CSS & JS projects  
+- **Java from Scratch with DSA** – Clean and structured Java + DSA learning repo  
+- **JavaScript from Basic** – Core JS concepts with examples  
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debug-node&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/aditya-kumar-0215942b3
