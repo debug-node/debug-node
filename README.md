@@ -54,7 +54,7 @@
 
 ## 🚀 Featured Projects
 - 🔢 **Loan Calculator** – EMI calculator using JavaScript  
-- 🌐 **20 Simple Web Projects** – HTML, CSS & JS practice  
+- 🌐 **My Projects** – HTML, CSS & JS practice  
 - ☕ **Java from Scratch with DSA** – Clean & structured learning repo  
 - 📘 **JavaScript from Basic** – Core JS concepts with examples  
 
