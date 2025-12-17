@@ -13,6 +13,7 @@
 - 📚 Strong foundation in **Java + DSA**  
 - 🧠 Programming experience in **Python, C, C++** 
 - 🚀 Learning by building **real-world projects daily**
+- 🎓 GitHub Student Developer Pack Member | GitHub Copilot Pro User
 
 ---
 
