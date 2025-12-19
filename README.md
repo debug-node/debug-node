@@ -64,8 +64,8 @@
 ## 📊 GitHub Stats
 
 <p align = 'center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=debug-node&show_icons=true&theme=radical&count_private=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=debug-node&show_icons=true&theme=radical&count_private=true&cache_seconds=60"/>
+  
   <!-- spacer -->
   <img width="40" height="1" />
 
