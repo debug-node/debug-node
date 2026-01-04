@@ -63,15 +63,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=debug-node&show_icons=true&theme=radical"/>
+<p align = 'center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=debug-node&show_icons=true&theme=radical&count_private=true&cache_seconds=120"/>
+  
+  <!-- spacer -->
+  <img width="40" height="1" />
 
-  <img height="165"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=debug-node&layout=compact&theme=radical"/>
-</p>
-
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debug-node&layout=compact&theme=radical"/>
+</p
+  
 ---
 
 ## 📫 Connect With Me
