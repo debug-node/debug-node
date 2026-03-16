@@ -95,6 +95,13 @@
 </p>
   
 ---
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=debug-node&theme=nightowl&hide_border=true&border_radius=12"
+  />
+</p>
+
+---
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/aditya-kumar-0215942b3  
