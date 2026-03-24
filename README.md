@@ -76,22 +76,22 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔢 **Loan Calculator** – EMI calculator using JavaScript  
-- 🌐 **My Projects** – HTML, CSS & JS practice  
-- ☕ **Java from Scratch with DSA** – Clean & structured learning repo  
-- 📘 **JavaScript from Basic** – Core JS concepts with examples  
+- 💼 **Job Portal** – Full-stack job portal built using TypeScript
+- 🌐 **My Projects** – Responsive portfolio showcasing frontend skills  
+- 🔐 **Nmap Port Scanner GUI** – Python-based GUI tool for network scanning
+- 📊 **LeetCode Metrics** – Node.js app to track and display coding progress  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align = 'center'>
-  <img src="https://github-readme-stats-iota-inky-83.vercel.app/api?username=debug-node&show_icons=true&theme=radical&count_private=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats-iota-inky-83.vercel.app/api?username=debug-node&show_icons=true&theme=radical&count_private=true&cache_seconds=1800&hide_border=true&border_radius=12"/>
   
   <!-- spacer -->
   <img width="40" height="1" />
 
-  <img src="https://github-readme-stats-iota-inky-83.vercel.app/api/top-langs/?username=debug-node&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats-iota-inky-83.vercel.app/api/top-langs/?username=debug-node&layout=compact&theme=radical&hide_border=true&border_radius=12"/>
 </p>
   
 ---
