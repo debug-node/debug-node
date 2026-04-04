@@ -75,6 +75,30 @@
 
 ---
 
+## 🏆 CTF & Cybersecurity Platforms
+
+<p align="center">
+  <a href="https://tryhackme.com/p/debugnode" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-debugnode-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/debugnode" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-debugnode-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  &nbsp;
+  <a href="https://profile.hackthebox.com/profile/019d58bd-6ca5-72b9-b950-e4e6b12923c4" target="_blank">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-debugnode-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/debugnode" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/debugnode.png" alt="TryHackMe Badge" height="80"/>
+  </a>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 - 💼 **Job Portal** – Full-stack job portal built using TypeScript
 - 🌐 **My Projects** – Responsive portfolio showcasing frontend skills  
@@ -104,7 +128,10 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/aditya-kumar-0215942b3  
+- 💼 LinkedIn: https://www.linkedin.com/in/aditya-kumar-0215942b3
+- 🔴 TryHackMe: https://tryhackme.com/p/debugnode
+- 🟢 HackerRank: https://www.hackerrank.com/profile/debugnode
+- 🟩 Hack The Box: https://profile.hackthebox.com/profile/019d58bd-6ca5-72b9-b950-e4e6b12923c4  
 
 ---
 
